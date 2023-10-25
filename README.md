@@ -6,6 +6,8 @@
 * Menjalankan Python Console
 *  Menampilkan tulisan "hello" pada layar
 *  Menampilkan tulisan "saya sedang belajar python" pada layar
+![alt text](?raw=true)
+
 
 
 
